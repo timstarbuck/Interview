@@ -1,0 +1,6 @@
+C:\Users\costws.MERCURY\Documents\code\Interview\InterviewSln\ReverstString\bin\Debug\ReverseString.exe.config
+C:\Users\costws.MERCURY\Documents\code\Interview\InterviewSln\ReverstString\bin\Debug\ReverseString.exe
+C:\Users\costws.MERCURY\Documents\code\Interview\InterviewSln\ReverstString\bin\Debug\ReverseString.pdb
+C:\Users\costws.MERCURY\Documents\code\Interview\InterviewSln\ReverstString\obj\Debug\ReverseString.csprojResolveAssemblyReference.cache
+C:\Users\costws.MERCURY\Documents\code\Interview\InterviewSln\ReverstString\obj\Debug\ReverseString.exe
+C:\Users\costws.MERCURY\Documents\code\Interview\InterviewSln\ReverstString\obj\Debug\ReverseString.pdb
