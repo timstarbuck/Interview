@@ -69,23 +69,25 @@ namespace BinarySearch
         private static int FindArrayIndex(int[] arr, int valueToFind)
         {
             int min = 0;
-            int curr = arr.Length;
+            int high = arr.Length - 1;
             int mid;
 
-            while (curr >= min)
+            while (min <= high)
             {
-                mid = (curr - min) / 2;
+                mid = min + (int)Math.Floor((high - min) / 2.0);
 
-                if (arr[mid] == valueToFind)
+                if (valueToFind < arr[mid])
+                {
+                    high = mid - 1;
+                }
+                else if (valueToFind > arr[mid])
+                {
+                    min = mid + 1;
+                } else 
                 {
                     return mid;
-                } else if (valueToFind < arr[mid])
-                {
-                    curr = curr - 1;
-                } else
-                {
-                    curr = curr + 1;
                 }
+
             }
             return -1; // not found
         }
