@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "Factorial\Fact
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{F6F45D6D-24DF-4551-A214-295E8C65BE53}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{A932F390-6EB9-44EF-B20E-0176855E762B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F6F45D6D-24DF-4551-A214-295E8C65BE53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6F45D6D-24DF-4551-A214-295E8C65BE53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6F45D6D-24DF-4551-A214-295E8C65BE53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A932F390-6EB9-44EF-B20E-0176855E762B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A932F390-6EB9-44EF-B20E-0176855E762B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A932F390-6EB9-44EF-B20E-0176855E762B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A932F390-6EB9-44EF-B20E-0176855E762B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
