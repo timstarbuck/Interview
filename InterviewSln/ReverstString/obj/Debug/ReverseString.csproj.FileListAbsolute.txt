@@ -4,3 +4,9 @@ C:\Users\costws.MERCURY\Documents\code\Interview\InterviewSln\ReverstString\bin\
 C:\Users\costws.MERCURY\Documents\code\Interview\InterviewSln\ReverstString\obj\Debug\ReverseString.csprojResolveAssemblyReference.cache
 C:\Users\costws.MERCURY\Documents\code\Interview\InterviewSln\ReverstString\obj\Debug\ReverseString.exe
 C:\Users\costws.MERCURY\Documents\code\Interview\InterviewSln\ReverstString\obj\Debug\ReverseString.pdb
+C:\Users\Starguy\Documents\code\Interview\InterviewSln\ReverstString\bin\Debug\ReverseString.exe.config
+C:\Users\Starguy\Documents\code\Interview\InterviewSln\ReverstString\obj\Debug\ReverseString.exe
+C:\Users\Starguy\Documents\code\Interview\InterviewSln\ReverstString\obj\Debug\ReverseString.pdb
+C:\Users\Starguy\Documents\code\Interview\InterviewSln\ReverstString\obj\Debug\ReverseString.csprojResolveAssemblyReference.cache
+C:\Users\Starguy\Documents\code\Interview\InterviewSln\ReverstString\bin\Debug\ReverseString.exe
+C:\Users\Starguy\Documents\code\Interview\InterviewSln\ReverstString\bin\Debug\ReverseString.pdb

@@ -22,6 +22,8 @@ namespace ReverseString
             Reverse3(aString);
             Console.WriteLine(String.Join(", ", aString));
 
+            Console.WriteLine(Reverse4("abcdefg"));
+
 #if DEBUG
             Console.ReadLine();
 #endif
@@ -55,5 +57,14 @@ namespace ReverseString
             }
         }
 
+        private static string Reverse4(string test)
+        {
+            if (test == null || test.Length <= 1)
+            {
+                return test;
+            }
+            return Reverse4(test.Substring(1)) + test[0];
+        }
     }
+    
 }
