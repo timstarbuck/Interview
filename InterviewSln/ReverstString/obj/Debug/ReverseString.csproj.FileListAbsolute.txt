@@ -10,3 +10,10 @@ C:\Users\Starguy\Documents\code\Interview\InterviewSln\ReverstString\obj\Debug\R
 C:\Users\Starguy\Documents\code\Interview\InterviewSln\ReverstString\obj\Debug\ReverseString.csprojResolveAssemblyReference.cache
 C:\Users\Starguy\Documents\code\Interview\InterviewSln\ReverstString\bin\Debug\ReverseString.exe
 C:\Users\Starguy\Documents\code\Interview\InterviewSln\ReverstString\bin\Debug\ReverseString.pdb
+C:\Users\twstarbu\Documents\GitHub\mine\Interview\InterviewSln\ReverstString\bin\Debug\ReverseString.exe.config
+C:\Users\twstarbu\Documents\GitHub\mine\Interview\InterviewSln\ReverstString\bin\Debug\ReverseString.exe
+C:\Users\twstarbu\Documents\GitHub\mine\Interview\InterviewSln\ReverstString\bin\Debug\ReverseString.pdb
+C:\Users\twstarbu\Documents\GitHub\mine\Interview\InterviewSln\ReverstString\obj\Debug\ReverseString.csprojAssemblyReference.cache
+C:\Users\twstarbu\Documents\GitHub\mine\Interview\InterviewSln\ReverstString\obj\Debug\ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\twstarbu\Documents\GitHub\mine\Interview\InterviewSln\ReverstString\obj\Debug\ReverseString.exe
+C:\Users\twstarbu\Documents\GitHub\mine\Interview\InterviewSln\ReverstString\obj\Debug\ReverseString.pdb

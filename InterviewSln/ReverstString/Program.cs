@@ -1,12 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ReverseString
 {
-    class Program
+    static class Program
     {
         static void Main(string[] args)
         {
@@ -23,6 +20,8 @@ namespace ReverseString
             Console.WriteLine(String.Join(", ", aString));
 
             Console.WriteLine(Reverse4("abcdefg"));
+
+            Console.WriteLine(Reverse5("abcdefg"));
 
 #if DEBUG
             Console.ReadLine();
@@ -65,6 +64,14 @@ namespace ReverseString
             }
             return Reverse4(test.Substring(1)) + test[0];
         }
+
+        public static string Reverse5(string s)
+        {
+            char[] charArray = s.ToCharArray();
+            Array.Reverse(charArray);
+            return new string(charArray);
+        }
+
     }
-    
+
 }
